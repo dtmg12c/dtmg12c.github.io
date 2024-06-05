@@ -7,8 +7,8 @@
 }
 
 .gallery a {
-    width: 200px;
-    height: 300px;
+    width: 225px;
+    height: 400px;
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
@@ -28,7 +28,7 @@
 @media (max-width: 768px) {
     .gallery a {
         width: 170px;
-        height: 250px;
+        height: 300px;
     }
 }
 
